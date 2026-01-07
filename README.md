@@ -1,5 +1,10 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="350"/>
+</div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=1000&size=30&duration=3000&pause=500&color=FFFFFF&background=FFFFFF00&center=true&multiline=true&width=500&height=200&lines=My+name+is+Yeray+Afonso%2C;Welcome+to+my+GitHub!%F0%9F%91%8B" alt="My name is Yeray Afonso, welcome to my GitHub!" />
+</h1>
 <!--
 **yerayafonso/YerayAfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
