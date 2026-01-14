@@ -11,7 +11,7 @@
   About Me:
 </h3>
 <div align="center">
-I am an aspiring Software Developer from London.
+I am a Software Developer in training from London.
 <br/>
 <!--
 <br/>
